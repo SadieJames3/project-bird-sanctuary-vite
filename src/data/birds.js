@@ -4,30 +4,35 @@ const birdData = [
     name: "Shoebill",
     amount: 100,
     id: 444,
+    description: "https://en.wikipedia.org/wiki/Shoebill",
   },
   {
     img: "https://i.imgur.com/20pjOv5b.jpg",
     name: "Resplendent Quetzal",
     amount: 200,
     id: 555,
+    description: "https://en.wikipedia.org/wiki/Resplendent_quetzal",
   },
   {
     img: "https://i.imgur.com/GacKN4tb.jpg",
     name: "Royal Flycatcher",
     amount: 300,
     id: 777,
+    description: "https://en.wikipedia.org/wiki/Royal_flycatcher",
   },
   {
     img: "https://i.redditmedia.com/sl3adn3eXY65Y4yNLxMRO_O4y-Pf1EYCxPuHpV34WqI.jpg?fit=crop&crop=faces%2Centropy&arh=2&w=640&s=f461fa6cd525892f85eb89268550867a",
     name: "Boat Billed Heron",
     amount: 600,
     id: 1333,
+    description: "https://en.wikipedia.org/wiki/Boat-billed_heron",
   },
   {
     img: "https://i.imgur.com/vHQizcwb.jpg",
     name: "Turaco",
     amount: 400,
     id: 888,
+    description: "https://en.wikipedia.org/wiki/Turaco",
   },
 
   {
@@ -35,25 +40,29 @@ const birdData = [
     name: "King Vulture",
     amount: 500,
     id: 1010,
+    description: "https://en.wikipedia.org/wiki/King_vulture",
   },
   {
     img: "https://i.imgur.com/ZkvJHL8b.jpg",
     name: "Frilled Coquette Hummingbird",
-    amount: 600,
+    amount: 700,
     id: 1212,
+    description: "https://en.wikipedia.org/wiki/Frilled_coquette",
   },
 
   {
     img: "https://i.imgur.com/VGAxKX1.png",
     name: "tweetr",
-    amount: 10000,
+    amount: 900,
     id: 999,
+    description: "Make a donation without adopting a bird!",
   },
   {
     img: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/07/14/15/MPP.jpg?w968h681",
     name: "Ex Parrot",
-    amount: 700,
+    amount: 800,
     id: 2424,
+    description: "Make a donation without adopting a bird!",
   },
 ];
 
